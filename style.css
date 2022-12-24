@@ -1,0 +1,31 @@
+h1{
+    color:rgb(107, 105, 105);
+}
+
+.Informational{
+    
+    background-color : black;
+    color:white;
+    font-size:20px;
+}
+
+a{
+    color:white;
+    text-decoration: underline;
+}
+
+p{
+    margin-top:auto;
+    font-size:20px;
+}
+
+h2{
+    color:blue;
+    font-size:18px;
+}
+
+.contact{
+    background-color:black;
+    font-size:25px;
+    margin:5px;
+}
